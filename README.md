@@ -5,7 +5,7 @@
   </head>
   <body> 
     <left><h1>__Матвиенко Полина__</h1></left>
-    <left><img alt="Это я" width="15%" src="me.jpg"></left>
+    <left><img alt="Это я" width="15%" src="i.webp"></left>
     <br/>
     <h2>__Контакты:__</h2>
     _Страничка_ <a href=https://vk.com/username/>vkontakte</a>
