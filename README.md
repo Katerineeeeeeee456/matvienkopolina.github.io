@@ -1,6 +1,5 @@
 <html>
   <head>
-    <meta charset="utf-8">
     <title>Моя личная страничка</title>
   </head>
   <body> 
