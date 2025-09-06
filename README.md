@@ -9,7 +9,7 @@
     <h2>Контакты:</h2>
     Страничка [vkontakte](https://vk.com/username/)
     <br/>
-    [GitHub])https://github.com/username)
+    [GitHub](https://github.com/username)
     <br/>
     Телефон: <b>+78901234567</b>
     <br/>
