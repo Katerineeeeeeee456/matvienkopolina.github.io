@@ -4,7 +4,7 @@
   </head>
   <body> 
     <left><h1>Матвиенко Полина</h1></left>
-    <left><img src="https://yandex.ru/images/search?pos=3&from=tabbar&img_url=https%3A%2F%2Fpm1.aminoapps.com%2F7520%2Fd974d5f7a23f317b1db654ab55c868c262414939r1-900-900v2_hq.jpg&text=леди+баг&rpt=simage&lr=193" alt="Это я"></left>
+    <left><img src="https://yandex.ru/images/search?pos=7&from=tabbar&img_url=https%3A%2F%2Ffiles.vgtimes.ru%2Fposts%2F2025-06%2Fpokazan-pervyy-poster-anime-po-ledi-bag-127978.webp&text=леди+баг&rpt=simage&lr=193" alt="Это я"></left>
     <br/>
     <h2>Контакты:</h2>
     Страничка <a href= "https://vk.com/username/">vkontakte</a>
