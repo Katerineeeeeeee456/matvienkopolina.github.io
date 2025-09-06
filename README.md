@@ -4,12 +4,12 @@
   </head>
   <body> 
     <left><h1>Матвиенко Полина</h1></left>
-    <left><img alt="Это я" width="15%" src="i.webp"></left>
+    <left><img alt="Это я" src="https://yandex.ru/images/search?pos=3&from=tabbar&img_url=https%3A%2F%2Fpm1.aminoapps.com%2F7520%2Fd974d5f7a23f317b1db654ab55c868c262414939r1-900-900v2_hq.jpg&text=леди+баг&rpt=simage&lr=193"></left>
     <br/>
     <h2>Контакты:</h2>
-    Страничка [vkontakte](https://vk.com/username/)
+    Страничка <a href= "https://vk.com/username/">vkontakte</a>
     <br/>
-    [GitHub](https://github.com/username)
+    <a href= "https://github.com/username">GitHub</a>
     <br/>
     Телефон: <b>+78901234567</b>
     <br/>
