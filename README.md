@@ -12,8 +12,8 @@
     <br/>
     <a href=https://github.com/username>GitHub</a>
     <br/>
-    Телефон: <b>+78901234567</b>
+    _Телефон:_ <b>+78901234567</b>
     <br/>
-    E-mail: <i>wntrhrd777@gmail.com</i>
+    _E-mail:_ <i>wntrhrd777@gmail.com</i>
   </body>
 </html>
