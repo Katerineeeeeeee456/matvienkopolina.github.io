@@ -4,7 +4,7 @@
     <title>Моя личная страничка</title>
   </head>
   <body> 
-    <left><h1>__Матвиенко Полина__</h1></left>
+    <left><h1>**Матвиенко Полина**</h1></left>
     <left><img alt="Это я" width="15%" src="i.webp"></left>
     <br/>
     <h2>__Контакты:__</h2>
